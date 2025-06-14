@@ -2,6 +2,9 @@
 
 A multi user blog project using Laravel 10 and BlogNews blog template
 
+# Notes
+folder DB_Blog_Jadi adalah database awal yag sudah di download
+
 ## Features
 
 - Multi User (Admin, Author, Visitor)
