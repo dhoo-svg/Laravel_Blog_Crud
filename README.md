@@ -1,6 +1,6 @@
-# Oredoo - Laravel Multi User Blog Project
+# BlogNews - Laravel Multi User Blog Project
 
-A multi user blog project using Laravel 10 and Oredoo blog template
+A multi user blog project using Laravel 10 and BlogNews blog template
 
 ## Features
 
